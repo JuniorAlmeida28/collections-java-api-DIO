@@ -63,7 +63,7 @@ public class ConjuntoConvidados {
         System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidado(s) dentro do Set de Convidados após a remoção");
 
         // Exibindo os convidados atualizados no conjunto
-        System.out.println("Convidados no conjunto após a remoção:");
-        conjuntoConvidados.exibirConvidados();
+        //System.out.println("Convidados no conjunto após a remoção:");
+        //conjuntoConvidados.exibirConvidados();
     }
 }
