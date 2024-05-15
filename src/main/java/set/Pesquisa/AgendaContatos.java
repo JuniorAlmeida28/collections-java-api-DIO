@@ -57,7 +57,7 @@ public class AgendaContatos {
         AgendaContatos agendaContatos = new AgendaContatos();
 
         // Exibindo os contatos no conjunto (deve estar vazio)
-        agendaContatos.exibirContatos();
+        //agendaContatos.exibirContatos();
 
         // Adicionando contatos à agenda
         agendaContatos.adicionarContato("João", 123456789);
